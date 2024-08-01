@@ -14,7 +14,7 @@ Approaches or solutions that have been tried before on similar projects.
 
 + **Source 2:** "Deep learning with convolutional neural networks for EEG decoding and visualization" - Robin Tibor Schirrmeister et al. (2017)
 
-  + [**Link**](https://iopscience.iop.org/article/10.1088/1741-2552/ab4af6)
+  + [**Link**](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.23730)
   + **Objective:** Decoding EEG four-class motor imagery tasks
   + **Methods:** CNN, Morlet wavelet transformation, Bandpass function, limiting channels to a region of interest
   + **Outcomes:** The overall mean accuracy on the Physionet database reaches 94.5%
