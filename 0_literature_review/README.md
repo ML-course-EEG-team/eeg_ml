@@ -1,10 +1,11 @@
 # Literature Review
 
-## Preprocessing
+Approaches or solutions that have been tried before on similar projects.
 
-The preprocessing stage involves transforming EEG signals into a suitable format for deep learning models, following methodologies from recent research.
+### Summary of Each Work:
 
-### Techniques Used
++ **Source 1:** "A novel approach of decoding EEG four-class motor imagery tasks via scout ESI and CNN" - Yimin Hou et al. (2020)
+++ [**Link**](https://iopscience.iop.org/article/10.1088/1741-2552/ab4af6)
 
 - **Channel Selection**: Limiting to 17 movement-associated channels as described by Yimin Hou et al. (2020).
 - **Bandpass Filtering**: Applying bandpass filters to isolate relevant frequency bands, also based on Yimin Hou et al. (2020).
