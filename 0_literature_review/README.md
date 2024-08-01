@@ -16,8 +16,6 @@ The preprocessing stage involves transforming EEG signals into a suitable format
   
 ## Model Architectures
 
-The project explores several deep learning architectures, focusing on CNNs for EEG classification.
-
 ### CNN Implementation
 
 - **References**:
