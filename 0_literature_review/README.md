@@ -18,20 +18,20 @@ Approaches or solutions that have been tried before on similar projects.
   + **Objective:** Potentially make steps toward using ConvNets for brain mapping.
   + **Methods:** CNN, Bandpass filtering
   + **Outcomes:** CNN's show potential for EEG-based brain mapping.
-  + **Relation to the Project:** Studies the use of CNN's with EEG-signals
+  + **Relation to the Project:** Studies the use of CNN's with EEG signals
 
 + **Source 3:** "Classification of Electroencephalogram Signals Using LSTM and SVM Based on Fast Walsh-Hadamard Transform" - Saeed Mohsen et al. (2022)
 
   + [**Link**](https://www.techscience.com/cmc/v75n3/52629/html)
-  + **Objective:** Classification of EEG-signals via artificial intelligence
+  + **Objective:** Classification of EEG signals via artificial intelligence
   + **Methods:** LSTM, SVM
   + **Outcomes:** The weighted average precision, recall, and F1-score for the LSTM are 99.00%
   + **Relation to the Project:** Uses machine learning to classify EEG-signals
 
-+ **Source 4:** "Classification of Electroencephalogram Signals Using LSTM and SVM Based on Fast Walsh-Hadamard Transform" - Saeed Mohsen et al. (2022)
++ **Source 4:** "Deep belief networks for electroencephalography: A review of recent contributions and future outlooks" - Faezeh Movahedi et al. (2017)
 
-  + [**Link**](https://www.techscience.com/cmc/v75n3/52629/html)
-  + **Objective:** Classification of EEG-signals via artificial intelligence
-  + **Methods:** LSTM, SVM
-  + **Outcomes:** The weighted average precision, recall, and F1-score for the LSTM are 99.00%
+  + [**Link**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5967386/)
+  + **Objective:** Provide researchers with a broad overview of the currently existing DBN methodology for EEG signals
+  + **Methods:** DBN
+  + **Outcomes:** The development of DBN algorithms provides better data modeling and task classification for EEG data, however, there is still a need for investigations to improve DBN algorithms in order to deal with challenges such as multimodal data, large datasets, and computational complexity issues
   + **Relation to the Project:** Uses machine learning to classify EEG-signals
