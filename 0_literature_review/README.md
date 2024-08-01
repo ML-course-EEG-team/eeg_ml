@@ -7,6 +7,10 @@ Approaches or solutions that have been tried before on similar projects.
 + **Source 1:** "A novel approach of decoding EEG four-class motor imagery tasks via scout ESI and CNN" - Yimin Hou et al. (2020)
   
   + [**Link**](https://iopscience.iop.org/article/10.1088/1741-2552/ab4af6)
+  + **Objective:**
+  + **Methods:**
+  + **Outcomes:**
+  + **Relation to the Project:**
 
 - **Channel Selection**: Limiting to 17 movement-associated channels as described by Yimin Hou et al. (2020).
 - **Bandpass Filtering**: Applying bandpass filters to isolate relevant frequency bands, also based on Yimin Hou et al. (2020).
