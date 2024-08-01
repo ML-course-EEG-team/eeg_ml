@@ -1,10 +1,4 @@
-# EEG Image Classification Project
-
-This project implements a deep learning pipeline for classifying EEG data into different categories using Convolutional Neural Networks (CNNs) after preprocessing EEG signals.
-
-## Objective
-
-The primary objective is to preprocess EEG data and use CNNs to classify the data accurately, drawing from various research contributions in the field of EEG signal analysis and deep learning architectures.
+# Literature Review
 
 ## Preprocessing
 
