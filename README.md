@@ -14,11 +14,16 @@ The project consists of the following main components:
 - **`export_pictures.py`**: Contains code for loading, preprocessing EEG data, and exporting images.
 - **`model_binary.py`**: Contains code for defining, compiling, and training the CNN model.
 
-## Setup and Usage
+## Training Data Source
 
-### Prerequisites
+https://www.physionet.org/content/eegmmidb/1.0.0/
+
+## Prerequisites
 
 Make sure you have Python installed, along with the necessary packages. You can install the required packages using:
 
 ```bash
 pip install tensorflow mne pandas numpy matplotlib seaborn
+
+## Presentation Link
+
