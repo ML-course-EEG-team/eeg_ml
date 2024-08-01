@@ -19,10 +19,7 @@ Approaches or solutions that have been tried before on similar projects.
   + **Methods:** CNN, Bandpass filtering
   + **Outcomes:** CNN's show potential for EEG-based brain mapping
   + **Relation to the Project:** Studies the use of CNN's with EEG data
- 
-    
 
-  - **Yann LeCun et al. (2015)**: Foundational paper on deep learning, emphasizing CNNs.
 
 ### Other Models
 
