@@ -8,8 +8,8 @@ Approaches or solutions that have been tried before on similar projects.
   
   + [**Link**](https://iopscience.iop.org/article/10.1088/1741-2552/ab4af6)
   + **Objective:** Decoding EEG four-class motor imagery tasks
-  + **Methods:** CNN, Morlet wavelet transformation, Bandpass function
-  + **Outcomes:**
+  + **Methods:** CNN, Morlet wavelet transformation, Bandpass function, limiting channels to a region of interest
+  + **Outcomes:** The overall mean accuracy on the Physionet database reaches 94.5%
   + **Relation to the Project:** Uses the same dataset
 
 - **Channel Selection**: Limiting to 17 movement-associated channels as described by Yimin Hou et al. (2020).
