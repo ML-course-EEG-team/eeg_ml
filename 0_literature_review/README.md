@@ -33,5 +33,5 @@ Approaches or solutions that have been tried before on similar projects.
   + [**Link**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5967386/)
   + **Objective:** Provide researchers with a broad overview of the currently existing DBN methodology for EEG signals
   + **Methods:** DBN
-  + **Outcomes:** The development of DBN algorithms provides better data modeling and task classification for EEG data, however, there is still a need for investigations to improve DBN algorithms in order to deal with challenges such as multimodal data, large datasets, and computational complexity issues
+  + **Outcomes:** DBN algorithms provide great data modeling and task classification for EEG data, however, there is still a need for investigations to improve DBN algorithms in order to deal with certain challenges.
   + **Relation to the Project:** Uses machine learning to classify EEG-signals
