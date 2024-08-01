@@ -28,3 +28,9 @@ pip install tensorflow mne pandas numpy matplotlib seaborn
 ## Presentation Link
 
 https://github.com/ML-course-EEG-team/eeg_ml/blob/main/4_presentation/opencampus_presentation.pptx
+
+## Members
+
+Joshua El-Samalouti
+Abidur Rahman
+Puliyampatta Anil Sasikumar Menon
