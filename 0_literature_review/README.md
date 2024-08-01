@@ -21,23 +21,4 @@ Approaches or solutions that have been tried before on similar projects.
   + **Relation to the Project:** Studies the use of CNN's with EEG data
 
 
-### Other Models
-
-- **LSTM**: Discussed by Alaa M. M. Anwar et al. (2018) for temporal data handling.
-- **RNN**: Explored by Rajesh Kumar et al. (2018) for modeling temporal dependencies.
-- **DBN**: Highlighted by Wei Yang et al. (2015) for feature extraction, with further insights from Kun-Hsing Yu et al. (2018) on AI applications in healthcare.
-
-## Methods
-
-1. **Preprocessing**: Implemented in `preprocess_data.py`, focusing on data transformation.
-2. **Model Training**: CNN model defined and trained in `train_model.py`, employing TensorFlow and Keras libraries.
-
-## Outcomes
-
-- **Accuracy Improvement**: The CNN model achieved significant accuracy improvements, aligning with findings in referenced papers.
-- **Model Robustness**: Demonstrated robustness in classifying complex EEG patterns using deep learning techniques.
-
-## Relation to Project
-
-The project leverages techniques and findings from seminal papers in EEG signal processing and deep learning, incorporating their insights into both preprocessing and model development.
 
