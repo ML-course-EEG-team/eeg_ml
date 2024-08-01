@@ -11,8 +11,8 @@ The project consists of the following main components:
 
 ## File Structure
 
-- **`preprocess_data.py`**: Contains code for loading, preprocessing EEG data, and exporting images.
-- **`train_model.py`**: Contains code for defining, compiling, and training the CNN model.
+- **`export_pictures.py`**: Contains code for loading, preprocessing EEG data, and exporting images.
+- **`model_binary.py`**: Contains code for defining, compiling, and training the CNN model.
 
 ## Setup and Usage
 
