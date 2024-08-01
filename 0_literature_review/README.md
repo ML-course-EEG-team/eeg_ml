@@ -24,7 +24,7 @@ Approaches or solutions that have been tried before on similar projects.
 
   + [**Link**](https://www.techscience.com/cmc/v75n3/52629/html)
   + **Objective:** Potentially make steps toward using ConvNets for brain mapping.
-  + **Methods:** CNN, Bandpass filtering
+  + **Methods:** LSTM, SVM
   + **Outcomes:** CNN's show potential for EEG-based brain mapping
   + **Relation to the Project:** Studies the use of CNN's with EEG data
 
