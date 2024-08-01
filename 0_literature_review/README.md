@@ -28,3 +28,10 @@ Approaches or solutions that have been tried before on similar projects.
   + **Outcomes:** The weighted average precision, recall, and F1-score for the LSTM are 99.00%
   + **Relation to the Project:** Uses machine learning to classify EEG-signals
 
++ **Source 4:** "Classification of Electroencephalogram Signals Using LSTM and SVM Based on Fast Walsh-Hadamard Transform" - Saeed Mohsen et al. (2022)
+
+  + [**Link**](https://www.techscience.com/cmc/v75n3/52629/html)
+  + **Objective:** Classification of EEG-signals via artificial intelligence
+  + **Methods:** LSTM, SVM
+  + **Outcomes:** The weighted average precision, recall, and F1-score for the LSTM are 99.00%
+  + **Relation to the Project:** Uses machine learning to classify EEG-signals
