@@ -20,5 +20,11 @@ Approaches or solutions that have been tried before on similar projects.
   + **Outcomes:** CNN's show potential for EEG-based brain mapping
   + **Relation to the Project:** Studies the use of CNN's with EEG data
 
++ **Source 3:** "Classification of Electroencephalogram Signals Using LSTM and SVM Based on Fast Walsh-Hadamard Transform" - Saeed Mohsen et al. (2022)
 
+  + [**Link**](https://www.techscience.com/cmc/v75n3/52629/html)
+  + **Objective:** Potentially make steps toward using ConvNets for brain mapping.
+  + **Methods:** CNN, Bandpass filtering
+  + **Outcomes:** CNN's show potential for EEG-based brain mapping
+  + **Relation to the Project:** Studies the use of CNN's with EEG data
 
