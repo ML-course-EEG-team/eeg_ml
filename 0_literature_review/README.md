@@ -50,11 +50,3 @@ The project explores several deep learning architectures, focusing on CNNs for E
 
 The project leverages techniques and findings from seminal papers in EEG signal processing and deep learning, incorporating their insights into both preprocessing and model development.
 
-## Setup and Usage
-
-### Requirements
-
-Ensure you have Python and the necessary libraries installed:
-
-```bash
-pip install tensorflow mne pandas numpy matplotlib seaborn
