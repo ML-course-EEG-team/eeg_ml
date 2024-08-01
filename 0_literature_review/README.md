@@ -12,18 +12,15 @@ Approaches or solutions that have been tried before on similar projects.
   + **Outcomes:** The overall mean accuracy on the Physionet database reaches 94.5%
   + **Relation to the Project:** Uses the same dataset
 
-- **Channel Selection**: Limiting to 17 movement-associated channels as described by Yimin Hou et al. (2020).
-- **Bandpass Filtering**: Applying bandpass filters to isolate relevant frequency bands, also based on Yimin Hou et al. (2020).
-- **Wavelet Transformation**: Using Morlet wavelet transformation for enhanced time-frequency analysis as per Yimin Hou et al. (2020).
++ **Source 2:** "Deep learning with convolutional neural networks for EEG decoding and visualization" - Robin Tibor Schirrmeister et al. (2017)
 
-### Paper References
-
-- **Yimin Hou et al. (2020)**: Enhanced preprocessing techniques to improve EEG classification.
-  
-## Model Architectures
-
-### CNN Implementation
-
+  + [**Link**](https://iopscience.iop.org/article/10.1088/1741-2552/ab4af6)
+  + **Objective:** Decoding EEG four-class motor imagery tasks
+  + **Methods:** CNN, Morlet wavelet transformation, Bandpass function, limiting channels to a region of interest
+  + **Outcomes:** The overall mean accuracy on the Physionet database reaches 94.5%
+  + **Relation to the Project:** Uses the same dataset
+ 
+    
 - **References**:
   - **A. Schirrmeister et al. (2017)**: Detailed exploration of CNNs for EEG decoding.
   - **Yann LeCun et al. (2015)**: Foundational paper on deep learning, emphasizing CNNs.
